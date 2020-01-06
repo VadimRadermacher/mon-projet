@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mon-projet-website/static/css/main.48e7c327.chunk.css",
+    "main.js": "/mon-projet-website/static/js/main.a66b14c9.chunk.js",
+    "main.js.map": "/mon-projet-website/static/js/main.a66b14c9.chunk.js.map",
+    "runtime-main.js": "/mon-projet-website/static/js/runtime-main.4a7e265f.js",
+    "runtime-main.js.map": "/mon-projet-website/static/js/runtime-main.4a7e265f.js.map",
+    "static/css/2.64a99b10.chunk.css": "/mon-projet-website/static/css/2.64a99b10.chunk.css",
+    "static/js/2.33dbb2ee.chunk.js": "/mon-projet-website/static/js/2.33dbb2ee.chunk.js",
+    "static/js/2.33dbb2ee.chunk.js.map": "/mon-projet-website/static/js/2.33dbb2ee.chunk.js.map",
+    "index.html": "/mon-projet-website/index.html",
+    "precache-manifest.8fae18fa5f1411aef64db101263cbe94.js": "/mon-projet-website/precache-manifest.8fae18fa5f1411aef64db101263cbe94.js",
+    "service-worker.js": "/mon-projet-website/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/mon-projet-website/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.48e7c327.chunk.css.map": "/mon-projet-website/static/css/main.48e7c327.chunk.css.map",
+    "static/js/2.33dbb2ee.chunk.js.LICENSE": "/mon-projet-website/static/js/2.33dbb2ee.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a7e265f.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.33dbb2ee.chunk.js",
+    "static/css/main.48e7c327.chunk.css",
+    "static/js/main.a66b14c9.chunk.js"
+  ]
+}
