@@ -1,0 +1,16 @@
+
+@import 'mixins';
+@import 'override';
+
+
+h1{
+    font-size:60px;
+}
+h1, h2, h3{
+    @extend .text-uppercase;
+}
+.section{
+    @include padding-section;
+}
+
+@import 'bootstrap';
